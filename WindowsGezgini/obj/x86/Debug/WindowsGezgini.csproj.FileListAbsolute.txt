@@ -1,0 +1,9 @@
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\bin\Debug\WindowsGezgini.exe
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\bin\Debug\WindowsGezgini.pdb
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\obj\x86\Debug\WindowsGezgini.Form1.resources
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\obj\x86\Debug\WindowsGezgini.Properties.Resources.resources
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\obj\x86\Debug\WindowsGezgini.exe
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\WindowsGezgini\WindowsGezgini\obj\x86\Debug\WindowsGezgini.pdb
